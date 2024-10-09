@@ -49,8 +49,11 @@ This project is a simple Todo application built with Next.js and Firebase Authen
     messagingSenderId: process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
     appId: process.env.NEXT_PUBLIC_FIREBASE_APP_ID,
     measurementId: process.env.NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID
+    ```
 
 4. Run the development server:
+   ```bash
    npm run dev
+   ```
 
 
